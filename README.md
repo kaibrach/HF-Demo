@@ -1,5 +1,3 @@
-# HF-Demo
-
 ---
 title: Demo
 emoji: 🌖
