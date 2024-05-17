@@ -1,4 +1,3 @@
-# HF-Demo
 ---
 title: Demo
 emoji: 🌖
@@ -12,7 +11,7 @@ license: cc
 ---
 
 
-[![Sync to Hugging Face hub](https://github.com/kaibrach/hugging-face/actions/workflows/main.yml/badge.svg)](https://github.com/kaibrach/hugging-face/actions/workflows/main.yml)
+[![Sync to Hugging Face hub](https://github.com/kaibrach/HF-Demo/actions/workflows/main.yml/badge.svg)](https://github.com/kaibrach/HF-Demo/actions/workflows/main.yml)
 
 
 [Try Demo Text Summarization Here](https://huggingface.co/spaces/LTown-AI/HF-Demo)
